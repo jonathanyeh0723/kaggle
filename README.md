@@ -1,2 +1,2 @@
 # kaggle
-This is my kaggle portfolio
+This is my kaggle portfolio.
